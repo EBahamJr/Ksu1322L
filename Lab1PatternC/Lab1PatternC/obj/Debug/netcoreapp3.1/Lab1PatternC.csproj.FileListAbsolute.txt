@@ -1,0 +1,11 @@
+C:\Users\ejbah\source\repos\Lab1PatternC\Lab1PatternC\obj\Debug\netcoreapp3.1\Lab1PatternC.csprojAssemblyReference.cache
+C:\Users\ejbah\source\repos\Lab1PatternC\Lab1PatternC\obj\Debug\netcoreapp3.1\Lab1PatternC.AssemblyInfoInputs.cache
+C:\Users\ejbah\source\repos\Lab1PatternC\Lab1PatternC\obj\Debug\netcoreapp3.1\Lab1PatternC.AssemblyInfo.cs
+C:\Users\ejbah\source\repos\Lab1PatternC\Lab1PatternC\bin\Debug\netcoreapp3.1\Lab1PatternC.exe
+C:\Users\ejbah\source\repos\Lab1PatternC\Lab1PatternC\bin\Debug\netcoreapp3.1\Lab1PatternC.deps.json
+C:\Users\ejbah\source\repos\Lab1PatternC\Lab1PatternC\bin\Debug\netcoreapp3.1\Lab1PatternC.runtimeconfig.json
+C:\Users\ejbah\source\repos\Lab1PatternC\Lab1PatternC\bin\Debug\netcoreapp3.1\Lab1PatternC.runtimeconfig.dev.json
+C:\Users\ejbah\source\repos\Lab1PatternC\Lab1PatternC\bin\Debug\netcoreapp3.1\Lab1PatternC.dll
+C:\Users\ejbah\source\repos\Lab1PatternC\Lab1PatternC\bin\Debug\netcoreapp3.1\Lab1PatternC.pdb
+C:\Users\ejbah\source\repos\Lab1PatternC\Lab1PatternC\obj\Debug\netcoreapp3.1\Lab1PatternC.dll
+C:\Users\ejbah\source\repos\Lab1PatternC\Lab1PatternC\obj\Debug\netcoreapp3.1\Lab1PatternC.pdb

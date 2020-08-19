@@ -1,0 +1,11 @@
+C:\Users\ejbah\source\repos\Lab1patternD\Lab1patternD\bin\Debug\netcoreapp3.1\Lab1patternD.exe
+C:\Users\ejbah\source\repos\Lab1patternD\Lab1patternD\bin\Debug\netcoreapp3.1\Lab1patternD.deps.json
+C:\Users\ejbah\source\repos\Lab1patternD\Lab1patternD\bin\Debug\netcoreapp3.1\Lab1patternD.runtimeconfig.json
+C:\Users\ejbah\source\repos\Lab1patternD\Lab1patternD\bin\Debug\netcoreapp3.1\Lab1patternD.runtimeconfig.dev.json
+C:\Users\ejbah\source\repos\Lab1patternD\Lab1patternD\bin\Debug\netcoreapp3.1\Lab1patternD.dll
+C:\Users\ejbah\source\repos\Lab1patternD\Lab1patternD\bin\Debug\netcoreapp3.1\Lab1patternD.pdb
+C:\Users\ejbah\source\repos\Lab1patternD\Lab1patternD\obj\Debug\netcoreapp3.1\Lab1patternD.AssemblyInfoInputs.cache
+C:\Users\ejbah\source\repos\Lab1patternD\Lab1patternD\obj\Debug\netcoreapp3.1\Lab1patternD.AssemblyInfo.cs
+C:\Users\ejbah\source\repos\Lab1patternD\Lab1patternD\obj\Debug\netcoreapp3.1\Lab1patternD.dll
+C:\Users\ejbah\source\repos\Lab1patternD\Lab1patternD\obj\Debug\netcoreapp3.1\Lab1patternD.pdb
+C:\Users\ejbah\source\repos\Lab1patternD\Lab1patternD\obj\Debug\netcoreapp3.1\Lab1patternD.csprojAssemblyReference.cache
